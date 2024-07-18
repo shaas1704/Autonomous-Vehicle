@@ -141,14 +141,7 @@ The folloing diagram depicts the VAE+PPO training pipeline. Note: all the variab
 tensorboard --logdir runs/
 ```
 
-## Authors
-
-**Idrees Razak** - [GitHub](https://github.com/idreesshaikh), [LinkedIn](https://www.linkedin.com/in/idreesrazak/)
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-I thank, **Dr. Toka László**, for his exceptional leadership and unwavering support during this work.
